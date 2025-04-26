@@ -3,3 +3,4 @@ This is the source code of our recent submission to JCISE, ConceptVis: Exploring
 
 To deploy the system, you need to use your own LLM API keys.
 
+We are currently working on improving the system features based on our user study results. We will update to a new version and deploy the system on a server for open access soon.
